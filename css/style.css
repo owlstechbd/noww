@@ -97,24 +97,26 @@ p{
     width: 100%;
     height: 100vh;
     display: flex;
-    align-items: center;
     background: #F2F6F7;
     position: relative;
     background-position: center center!important;
     background-repeat: no-repeat!important;
     background-size: cover!important;
     color: #FFF;
+    padding-top: 200px;
 }
 
 .top-details h1 {
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 700;
     margin-bottom: 10px;
 }
 .top-details h1 span{
     color: #D79B0C;
 }
-
+.thierd-details{
+    padding-left: 40px;
+}
 .buton {
     margin-top: 30px ;
 }
