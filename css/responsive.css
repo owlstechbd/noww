@@ -1,0 +1,254 @@
+
+
+@media  screen and (max-width: 991px){
+    .head-left ul li a{
+        font-size: 13px;
+    }
+
+    .head-right ul li a i {
+        font-size: 16px;
+    }
+
+    .navbar-brand img {
+        width: 100px;
+    }
+    .top-details h2{
+        font-size: 22px;
+    }
+
+    .navbar-toggler-icon{
+        padding: 10px 0px;
+    }
+
+    .nav-item a{
+        font-size: 13px;
+    }
+    #safe{
+        padding: 50px 0;
+    }
+    .nav-item{
+        padding: 10px 20px;
+    }
+    .nav-bton{
+        margin-left: 0px;
+    }
+  
+    .about-left h2{
+        font-size: 22px;
+    }
+
+    .chose-us-main{
+        width: 86%;
+        padding: 70px 80px;
+    }
+
+    .planing-left h2 {
+        font-size: 22px;
+    }
+
+    .planing-right a{
+        padding: 10px 13px;
+        font-size: 11px;
+    }
+
+    .planing{
+        padding: 50px;
+        margin-top: -69px;
+    }
+    .safe-main{
+        margin-top: 30px;
+    }
+    .manage-main{
+        margin-top: 50px;
+        text-align: center;
+        justify-content: center;
+        flex-direction: column-reverse;
+    }
+    #instantly{
+        padding: 50px 0;
+    }
+    .manage-text{
+        width: 100%;
+    }
+    .manage-text h2{
+        font-size: 30px;
+    }
+    .manage-photo{
+        width: 100%;
+    }
+    #partner{
+        padding: 50px 0;
+    }
+    .footer-main{
+        padding: 50px 0;
+    }
+    .contact img {
+        width: 200px;
+    }
+    .resources ul{
+        margin-top: 0;
+    }
+.arrow-left a i {
+    
+    display: none;
+ }
+ .arrow-right a i{
+     display: none;
+ }
+
+    .services-title p{
+        font-size: 18px;
+    }
+
+    .services-title h2 {
+        font-size: 22px;
+    }
+
+    .footer-logo p{
+        font-size: 15px;
+    }
+
+    .resources ul li a{
+        font-size: 15px;
+    }
+
+    .contact ul li a{
+        font-size: 14px;
+    }
+
+    .contact-list ul li a img {
+        width: 20px;
+    }
+}
+@media  screen and (max-width: 768px){
+    
+.gap {
+    padding: 100px 0px;
+}
+    .booking {
+        padding: 0px 0px;
+    }
+.visa {
+    padding: 0px 0px;
+}
+
+    .flight {
+        padding-top: 20px;
+        padding-bottom: 0px;
+    }
+    .flight-booking h3 {
+        font-size: 27px;
+    }
+    .flight-booking p {
+        font-size: 12px
+    }
+
+
+
+    #about-us {
+        padding: 100px 0px;
+    }
+
+
+
+    .destianation-box-details{
+      width: 72%;
+    }
+    .destianation-slider{
+       padding-left: 58px;
+    }
+    #services{
+        padding-top: 60px;
+    }
+    .services-box{
+        width: 82%;
+       
+    }
+    .slider {
+        height: 35vh;
+
+    }
+    .head-left ul li a {
+        font-size: 14px;
+    }
+
+   
+    .head-right ul li a i {
+        font-size: 16px;
+    }
+   
+
+    .chose-us-main {
+        width: 94%;
+        padding: 32px 80px;
+    }
+
+    .destianation-box-details p{
+        font-size: 16px;
+    }
+ .planing-left h2 {
+        font-size: 16px;
+}
+
+.planing-left h2{
+    font-size: 23px;
+    margin-bottom: 0px;
+}
+
+.resources{
+    padding-left: 0px;
+}
+.planing-right a{
+    padding: 16px;
+    font-size: 12px;
+}
+.reserved p{
+    font-size: 10px;
+}
+
+.head-right ul li a i {
+    font-size: 16px;
+}
+
+
+#destianation{
+    padding: 100px 0px 150px;
+}
+.flight-service ul li {
+    padding: 0px 10px;
+    margin-left: 15px;
+}
+
+textarea{
+    width: 100%;
+}
+
+#contact-cover {
+    height: 30vh;
+}
+
+#contact-section {
+height: 80vh;
+}
+
+.booked {
+    padding: 50px 0px;
+}
+.mar-btm{
+    margin-bottom: 30px;
+}
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
