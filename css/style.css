@@ -147,7 +147,7 @@ p{
     font-size: 22px;
     color: #FFF;
     border-radius: 2px;
-    background: rgba(0, 0, 0, 0.53);
+    background: rgb(0 0 0 / 31%);
     padding: 5px 10px;
     border: 1px rgb(234, 232, 232) solid;
 }
@@ -155,7 +155,7 @@ p{
 .arrow-right a i {
     font-size: 22px;
     color: #FFF;
-    background: rgba(0, 0, 0, 0.53);
+    background: rgb(0 0 0 / 31%);
     padding: 5px 10px;
     border: 1px rgb(234, 232, 232) solid;
 }
